@@ -1,0 +1,6 @@
+projectKey=2603_Sonarqube_flight_project
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=2603_Sonarqube_flight_project
+ceTaskId=AYBB5FbwQH8VjXhj42Zu
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AYBB5FbwQH8VjXhj42Zu
